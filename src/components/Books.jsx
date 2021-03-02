@@ -1,6 +1,6 @@
 import React from 'react';
 
-import '../../index.css';
+import '../index.css';
 
 class Books extends React.Component {
     constructor(props) {
